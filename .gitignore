@@ -1,0 +1,10 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+myenv/
+../myenv/
+.venv/
+venv/
+env/
+.env
+__pycache__/
+.ipynb_checkpoints/
